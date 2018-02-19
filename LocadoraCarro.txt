@@ -1,0 +1,2 @@
+Normal:2:12Abr2018(seg),13Abr2018(ter)
+Premium:2:20Abr2018(sab),21Abr2018(dom)
